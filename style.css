@@ -1,0 +1,200 @@
+/* body, html {
+ 
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  width: inherit;
+  height: 100%;
+  background-color: rgba(0, 100, 0, 0.862);
+  color: #ffffff;
+
+
+ .hero-image {
+  
+  rgba(0, 0, 0, 0.5)
+  background-image: url("./beautiful green plant.jpg")
+  
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+  height: 50%;
+  display: grid; 
+}
+
+.hero-content {
+  color: #f0ffff;
+  text-rendering: row;
+  margin-bottom: 20px;
+}
+ header ul li{
+  display: inline;
+  margin-right: 30px;
+  margin-bottom: 80%;
+  font-size: small;
+
+
+ }
+
+ #container.nav {
+  background: aqua;
+  height: 4rem;
+  width: 100%; 
+  border: 1px solid blue;
+
+ }
+ .content {
+  display: flex;
+  height: 30%;
+ }*/
+
+ /*body, html {
+  
+
+}
+.my container {
+  display: float;
+  box-sizing: border-box;
+  width: 100%;
+  height: 50%;
+  background-color: rgba(0, 0, 255, 0.364);
+  margin: 0;
+  padding: 0;
+
+}
+.image {
+  font-size: 0cap;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.navigation {
+  margin-left: 50px;
+  padding: ;
+
+}
+
+
+
+
+
+
+
+ div .offer {
+  color: #f0ffff;
+  font-size:large ;
+  margin: 0 0 25px 0;
+  padding-left: 5%;
+}
+
+div .info {
+  color: #f0ffff;
+  font-size: 10px;
+  margin: 25px 0 0 0;
+  padding: 40px 50px ;
+}
+
+
+ button {
+  color: #556b2f;
+  text-align: center;
+  width: 10%;
+  height: 5%;
+  border-radius: 20px;
+  background-color: aliceblue;
+  margin: 100px 50px;
+
+}
+}*/
+/*body, html {
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+  color: white;
+}*/
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+
+}
+
+header {
+  background-color: #0047ff;
+  padding: 20px 0;
+}
+
+.logo{
+  color: #fff;
+  font-size: 1.5em;
+  text-decoration: none;
+}
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+nav ul li .cta {
+  background-color: #00d8ff;
+  border-radius: 20px;
+}
+
+.hero {
+  background-color: #0047ff;
+  color: #fff;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.hero h1 {
+  margin-bottom: 20px;
+  font-size: 2.5em;
+}
+
+.hero .button .btn {
+  background-color: #fff;
+  color: #0047ff;
+  text-decoration: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  border-radius: 20px;
+}
+
+.info {
+  background-color: #f9f9f9;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.info-box {
+  display: inline-block;
+  width: 30%;
+  padding: 20px;
+}
+
+.info-box .icon {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.brand-container h2 {
+  margin-bottom: 20px;
+}
+
+.brand-container .image img {
+  width: 50%;
+  border-radius: 10px;
+}
